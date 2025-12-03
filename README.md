@@ -35,7 +35,7 @@ LARGER: MOV A,B
 STORE: STA 8002H  
 HLT  
 
-
+```
 
 ## output:
 <img width="663" height="325" alt="image" src="https://github.com/user-attachments/assets/9dfb3789-e4a2-42ce-8277-323e9936154e" />
