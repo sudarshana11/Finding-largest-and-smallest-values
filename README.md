@@ -72,7 +72,7 @@ JC STORE       ; If A < B, A is smaller
 MOV A,B        ; Else B is smaller
 STORE: STA 8002H
 HLT
-
+```
 ## output:
 # Experiment 2: Smallest and Largest of Two Numbers using 8085
 
